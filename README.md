@@ -2,7 +2,7 @@
 
 **Полный русский перевод** игры The Guild 1 Remake: Europa 1410 (ремейк первой «Гильдии») для Steam. Переведён весь текст игры: интерфейс, обучение, события, подсказки, энциклопедия, должности, законы, товары и реплики персонажей.
 
-**[Скачать русификатор](https://github.com/sincess1/the-guild-1-remake-europa-1410-rusifikator/releases/latest)** — ZIP, 4 МБ · версия 1.0.0 · для игры 0.4.0.25448 (ранний доступ)
+**[Скачать русификатор](https://github.com/sincess1/the-guild-1-remake-europa-1410-rusifikator/releases/latest)** — ZIP, 4 МБ · версия 1.0.0 · для игры 0.4.0.25448 (ранний доступ) · [зеркало на SteamGate](https://steamgate.online/ru/blog/the-guild-1-remake-europa-1410-rusifikator?utm_source=github&utm_medium=readme&utm_campaign=guild1410)
 
 Сделан командой [SteamGate.online](https://steamgate.online/ru?utm_source=github&utm_medium=readme&utm_campaign=guild1410) — все новинки Steam в день выхода.
 
