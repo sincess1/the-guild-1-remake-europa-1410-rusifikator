@@ -2,16 +2,24 @@
 
 **Полный русский перевод** игры The Guild 1 Remake: Europa 1410 (ремейк первой «Гильдии») для Steam. Переведён весь текст игры: интерфейс, обучение, события, подсказки, энциклопедия, должности, законы, товары и реплики персонажей.
 
-**[Скачать русификатор](https://github.com/sincess1/the-guild-1-remake-europa-1410-rusifikator/releases/latest)** — ZIP, 4 МБ · версия 1.0.0 · для игры 0.4.0.25448 (ранний доступ) · [зеркало на SteamGate](https://steamgate.online/ru/blog/the-guild-1-remake-europa-1410-rusifikator?utm_source=github&utm_medium=readme&utm_campaign=guild1410)
+**[Скачать русификатор](https://github.com/sincess1/the-guild-1-remake-europa-1410-rusifikator/releases/latest)** — ZIP, 4 МБ · версия 1.0.1 · для игры 0.4.5 (ранний доступ) · [зеркало на SteamGate](https://steamgate.online/ru/blog/the-guild-1-remake-europa-1410-rusifikator?utm_source=github&utm_medium=readme&utm_campaign=guild1410)
 
 Сделан командой [SteamGate.online](https://steamgate.online/ru?utm_source=github&utm_medium=readme&utm_campaign=guild1410) — все новинки Steam в день выхода.
 
 ![The Guild 1 Remake: Europa 1410 на русском — главное меню](screenshots/01_glavnoe_menyu_shirokii.jpg)
 
+## Что нового
+
+**1.0.1** — под обновление игры 0.4.5:
+- переведено всё новое: пасеки (пчёлы, мёд и воск), разбор цен на рынке и в зданиях, усыновление детей, выкладка товаров на прилавок, новые действия и уведомления;
+- переведена памятка по управлению в главном меню и новые подсказки цен — их нет в таблицах перевода игры;
+- меню паузы собрано заново из новой версии игры;
+- мелкие правки перевода.
+
 ## Что переведено
 
-- **7 328 строк игры, около 55 тысяч слов** — 100% текста, который игра отдаёт на перевод.
-- **Ещё 261 строка**, которую игра на перевод не отдаёт: кнопки, подписи и подсказки, зашитые прямо в меню и скрипты. Их нет даже в официальном немецком переводе.
+- **7 399 строк игры, около 54 тысяч слов** — 100% текста, который игра отдаёт на перевод.
+- **Ещё 270 строк**, которые игра на перевод не отдаёт: кнопки, подписи и подсказки, зашитые прямо в меню и скрипты. Их нет даже в официальном немецком переводе.
 - Правильные падежи и склонения чисел: «1 династия, 3 династии, 12 династий», «Накопите 200 000 богатства».
 - Русская типографика: кавычки-«ёлочки», тире, неразрывные пробелы, числа с пробелами.
 
@@ -75,7 +83,7 @@
 
 ## English
 
-Russian translation (rusifikator) for The Guild 1 Remake: Europa 1410 (Steam, Early Access 0.4.0). Download the ZIP from [Releases](https://github.com/sincess1/the-guild-1-remake-europa-1410-rusifikator/releases/latest), copy the `Europa1410` folder into the game folder, then choose «Русский (Russian)» in Settings → Gameplay → Text Language. Russian replaces the German entry in the language list; no launch options or installer needed.
+Russian translation (rusifikator) for The Guild 1 Remake: Europa 1410 (Steam, Early Access 0.4.5). Download the ZIP from [Releases](https://github.com/sincess1/the-guild-1-remake-europa-1410-rusifikator/releases/latest), copy the `Europa1410` folder into the game folder, then choose «Русский (Russian)» in Settings → Gameplay → Text Language. Russian replaces the German entry in the language list; no launch options or installer needed.
 
 ## Ищут также
 
